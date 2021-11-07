@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="eng">
+<head> 
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-compatible" content="ie=edge">
+<title>paragraph</title>
+</head>
+<body>
+
+    
+    <h1>this my website as josh</h1>
+    <img src="IMG_0349.JPG">
+
+    
+    <!-- undefined list -->
+    <ul>
+        <li>items1</li>
+        <li>item2</li>
+        <li>item3</li>
+    </ul>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nesciunt tempora voluptatibus dolorum ratione illo ab. Provident consequatur sequi in cum, voluptates error repellat aperiam magnam, quos, quaerat molestias! Quia facilis possimus sint accusamus vel, molestias quidem. Dignissimos, porro! Laborum dolorum quas ea ab quae temporibus. Amet harum molestiae pariatur?
+    
+    </p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum sapiente quis tempore. Ipsa impedit
+         praesentium illo libero ex porro optio.</p>
+
+
+</body>
